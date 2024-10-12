@@ -1,0 +1,15 @@
+.left{
+    color:  white;
+    background-color: black; 
+    
+}
+
+.right{
+    background-color: yellow ; 
+    border: 9px solid rgb(208, 49, 49); /* Viền dày 2px, kiểu solid, màu đen */
+}
+*{
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    
+}

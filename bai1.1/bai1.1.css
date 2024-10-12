@@ -1,0 +1,18 @@
+h1 {
+    background-color: rgb(255, 11, 19);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h2{
+    color: white;
+    background-color: green;
+
+}
+
+button{
+    background-color: yellow;
+    color: black;
+    padding-right: 70px ;
+    border-color: rgb(249, 250, 250);
+}

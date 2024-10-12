@@ -1,0 +1,24 @@
+.container{
+    background-color : blue;
+    border : 40px solid midnightblue; 
+    width: 400px;
+    height: 400px;
+    position: relative;
+    padding-top: 90px;
+    
+}
+
+.box{
+    background-color :red;
+    font-size : 56px; 
+    font-weight : bold 90px ;
+    text-align : center; 
+    width: 400px;
+    height: 90px;
+    border: 50px;
+    border-color : rgb(106, 0, 0) ;
+    margin: auto;
+    padding-top: 150px;
+    padding-bottom: 12px;
+    margin-top: 150px; 
+}
